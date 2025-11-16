@@ -1,4 +1,4 @@
-# Secure Network Scanner (Task 1 – Secure Coding Review)
+# Secure Network Scanner (Task 2 – Secure Coding Review at CodeAlpha)
 
 This project contains a simple and secure Python network scanner created for my cybersecurity course.
 
